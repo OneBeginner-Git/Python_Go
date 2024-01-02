@@ -1,0 +1,6 @@
+Intentions﻿
+PyCharm can find and highlight various problems, locate dead code, find probable bugs, spelling problems, and hint some Python specific improvements, and align the code structure.
+
+As soon as the IDE finds a way to improve your code, it displays a yellow bulb icon yellow bulb icon in the editor next to the current line. You can also press Alt+Enter to invoke the context actions menu.
+
+For example, you can invert an if statement with a condition.
